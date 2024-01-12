@@ -1,4 +1,4 @@
-# htmx-ext-shoelace
+# htmx-ext-ably
 
 An extension to make [Ably](https://ably.com/) elements work seamlessly (as possible) with htmx.
 
@@ -45,16 +45,16 @@ An extension to make [Ably](https://ably.com/) elements work seamlessly (as poss
 
 # Events
 
-ablyBeforeSend
-ablyAfterSend
-ablyAfterChannelSubscribe
-ablyBeforeChannelSubscribe
-ablyConfigureSend
-ablyConnecting
-ablyConnected
-ablyFailed
-ablyClosed
-ablySuspended
-ablyDisconnected
-ablyAfterMessage
-ablyBeforeMessage
+- ablyBeforeSend
+- ablyAfterSend
+- ablyAfterChannelSubscribe
+- ablyBeforeChannelSubscribe
+- ablyConfigureSend
+- ablyConnecting
+- ablyConnected
+- ablyFailed
+- ablyClosed
+- ablySuspended
+- ablyDisconnected
+- ablyAfterMessage
+- ablyBeforeMessage
