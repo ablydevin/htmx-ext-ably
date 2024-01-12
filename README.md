@@ -4,10 +4,11 @@ An extension to make [Ably](https://ably.com/) elements work seamlessly (as poss
 
 ## Usage
 
-1. Import htmx and the extension
+1. Import htmx, Ably and the extension
 
 ```
-<script src="htmx.js"></script>
+<script src="https://unpkg.com/htmx.org"></script>
+<script src="https://cdn.ably.com/lib/ably.min-1.js"></script>
 <script src="htmx.ext.ably.js"></script>
 ```
 
